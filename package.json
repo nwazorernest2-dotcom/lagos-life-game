@@ -1,0 +1,9 @@
+{
+  "name": "lagos-life-fictional-money-game",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A fictional virtual-money game demo with secure accounts and an admin activity dashboard.",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "express": "^4.21.2", "express-session": "^1.18.1" }
+}
